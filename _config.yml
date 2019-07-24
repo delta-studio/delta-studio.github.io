@@ -1,7 +1,8 @@
 # Site settings
 title: Shane Blog
 SEOTitle: Δ | Shane Blog
-header-img: img/home-bg.jpg
+#header-img: img/home-bg.jpg
+header-img: shane_home_bg.png
 email: sdyang@chd.edu.cn
 description: "关于程序与设计、硬件与结构 | Shane， Electronic Engineer | 这里是 @Shane顺东 的个人博客，与你一起发现更大的世界。"
 keyword: "顺东, Shane顺东, Shane, @shane, 顺东的博客, Shane Blog, 博客, 个人网站, 智能硬件, Web, EE, 程序, 设计"
