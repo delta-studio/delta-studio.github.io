@@ -1,0 +1,16 @@
+---
+layout: post
+title: "中国移动OneNET物联网视频开发板"
+subtitle: "PaaS 视频开发板"
+author: "Shane"
+header-img: "img/favorite.jpg"
+header-mask: 0.4
+tags:
+  - 智能硬件
+  - 物联网
+  - OneNET
+---
+
+![](/img/in-post/20190728/1.jpg)
+
+![](/img/in-post/20190728/2.jpg)
