@@ -6,8 +6,8 @@ author: "Shane"
 header-img: "img/favorite.jpg.jpg"
 header-mask: 0.4
 tags:
-  - Facebook
-  - 生活
+  - 智能硬件
+  - 电源
 ---
 
 ![](\img\in-post\20190727\1.jpg)
