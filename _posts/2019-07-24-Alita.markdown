@@ -10,7 +10,7 @@ tags:
   - 电源
 ---
 
-![](/img/in-post/20190727/1.jpg)
+![](/img/in-post/20190727/1.png)
 
 ![](\img\in-pose\20190727\2.jpg)
 
@@ -18,5 +18,9 @@ tags:
 
 ![](\img\in-pose\20190727\4.jpg)
 
+
+
 <img class="shadow" src="/img/in-post/20190727/1.jpg" width="260">
+
+![](https://github.com/delta-studio/delta-studio.github.io/tree/master/img/in-post/20190727/1.png)
 
