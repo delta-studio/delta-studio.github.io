@@ -1,5 +1,6 @@
 # Site settings
-title: 大道至简
+#title: 大道至简
+title: Shane's Blog
 SEOTitle: Δ | Shane Blog
 header-img: img/about-bg.jpg
 #header-img: shane_home_bg.jpg
@@ -15,12 +16,13 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     
-zhihu_username:     
-github_username:    
-twitter_username:   
-twitter_username:   
+github_username: delta-studio 
+weibo_username: atCodeMonkey     
+zhihu_username: 404    
+twitter_username: 404   
+facebook_username:  404
 #facebook_username:  shane
+linkedin_username: 404
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -54,7 +56,7 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
   syntax_highlighter_opts:
     span:
-      line_numbers: false
+      line_numbers: true
     block:
       line_numbers: true
       start_line: 1
@@ -74,7 +76,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_track_id:            # Format: UA-xxxxxx-xx
 ga_domain: 
 
 
@@ -99,7 +101,7 @@ service-worker: true
 
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: true
 
 
 
