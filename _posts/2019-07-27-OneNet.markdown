@@ -18,6 +18,6 @@ typora-root-url: ..
 
 
 
-![](img/in-post/20190728/1.jpg)
+![](/img/in-post/20190728/1.jpg)
 
 ![](/img/in-post/20190728/2.jpg)
