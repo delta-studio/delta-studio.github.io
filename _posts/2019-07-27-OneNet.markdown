@@ -9,6 +9,7 @@ tags:
   - 智能硬件
   - 物联网
   - OneNET
+typora-root-url: ..
 ---
 
 # 中国移动OneNET视频开发板
@@ -17,8 +18,6 @@ tags:
 
 
 
-![](../img/in-post/20190728/1.jpg)
+![](img/in-post/20190728/1.jpg)
 
-![](../img/in-post/20190728/2.jpg)
-
-![](../img/in-post/20190728/2.jpg)
+![](/img/in-post/20190728/2.jpg)

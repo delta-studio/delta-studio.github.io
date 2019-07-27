@@ -8,6 +8,7 @@ header-mask: 0.4
 tags:
   - 智能硬件
   - 电源
+typora-root-url: ..
 ---
 
 ![](/img/in-post/20190727/1.png)
