@@ -11,6 +11,12 @@ tags:
 typora-root-url: ..
 ---
 
+
+
+原理图中LM358A运放的U4B的正向输入与反向输入有问题。
+
+
+
 ![](/img/in-post/20190727/1.png)
 
 ![](/img/in-post/20190727/2.png)
